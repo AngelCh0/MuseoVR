@@ -13,4 +13,5 @@ public class PiezaTexto : MonoBehaviour
     {
         campoTexto.text = "";
     }
+    
 }
