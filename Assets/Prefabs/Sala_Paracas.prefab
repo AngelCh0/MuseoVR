@@ -2121,13 +2121,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2669704214623446867, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: descripcion
-      value: "16:52\uE0CE\uE064\uE056\uE03BClaude ha respondido: Botella Escult\xF3rica
-        \u2014 LechuzaBotella Escult\xF3rica \u2014 Lechuza\nCultura Moche / Mochica
-        \xB7 100\u2013700 d.C.\nVasija zoomorfa que representa una lechuza sentada,
-        modelada con notable expresividad en el rostro y el plumaje. Para los Moche,
-        la lechuza era un animal de gran carga simb\xF3lica: mensajera del mundo
-        de los muertos, guardiana nocturna y figura recurrente en su iconograf\xEDa
-        ritual."
+      value: "LechuzaBotella Escult\xF3rica\nCultura Moche / Mochica \xB7 100\u2013700
+        d.C.\nVasija zoomorfa que representa una lechuza sentada, modelada con notable
+        expresividad en el rostro y el plumaje. Para los Moche, la lechuza era un
+        animal de gran carga simb\xF3lica: mensajera del mundo de los muertos, guardiana
+        nocturna y figura recurrente en su iconograf\xEDa ritual."
       objectReference: {fileID: 0}
     - target: {fileID: 5001042639313998470, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_Name
@@ -2136,7 +2134,7 @@ PrefabInstance:
     - target: {fileID: 5108199375766805300, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_Resource
       value: 
-      objectReference: {fileID: 8300000, guid: 7e8d4f22738344094abf0340946df51c, type: 3}
+      objectReference: {fileID: 8300000, guid: 24e701a6e1074f444a11e88b17f23fbc, type: 3}
     - target: {fileID: 5679685611453333098, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0

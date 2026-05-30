@@ -238,6 +238,79 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1631196152}
   m_SourcePrefab: {fileID: 100100000, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+--- !u!1001 &305545176
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 135369815643039718, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_Name
+      value: Sala_Paracas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1316328120874871155, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_text
+      value: "Botella Escult\xF3rica\nCultura Moche / Mochica \xB7 100\u2013700 d.C.\nVasija
+        zoomorfa que representa una lechuza sentada, modelada con notable expresividad
+        en el rostro y el plumaje. Para los Moche, la lechuza era un animal de gran
+        carga simb\xF3lica: mensajera del mundo de los muertos, guardiana nocturna
+        y figura recurrente en su iconograf\xEDa ritual."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333078964943011761, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628010291737150169, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: descripcion
+      value: "Botella Escult\xF3rica\nCultura Moche / Mochica \xB7 100\u2013700 d.C.\nVasija
+        zoomorfa que representa una lechuza sentada, modelada con notable expresividad
+        en el rostro y el plumaje. Para los Moche, la lechuza era un animal de gran
+        carga simb\xF3lica: mensajera del mundo de los muertos, guardiana nocturna
+        y figura recurrente en su iconograf\xEDa ritual."
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,71 +465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9f365cf844c03449bc8973eead2c3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &481050005
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3136148438680104199, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 5683318001951738486, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 23.99
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7269039383977223219, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_Name
-      value: Sala_Paracas
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -616,7 +624,7 @@ Rigidbody:
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &1310199541
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -703,91 +711,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!1001 &1729052063
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 141340352222315943, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0000023058055
-      objectReference: {fileID: 0}
-    - target: {fileID: 1588632169414921475, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0000003985315
-      objectReference: {fileID: 0}
-    - target: {fileID: 1878708914941143426, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0000023058055
-      objectReference: {fileID: 0}
-    - target: {fileID: 5683318001951738486, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 47.98
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7269039383977223219, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_Name
-      value: Sala_Inca
-      objectReference: {fileID: 0}
-    - target: {fileID: 9042007082386900356, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0000023058055
-      objectReference: {fileID: 0}
-    - target: {fileID: 9053180781663289495, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.00000055521724
-      objectReference: {fileID: 0}
-    - target: {fileID: 9140248188576808429, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.0000023058055
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
 --- !u!1001 &1791468571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1261,7 +1184,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1331039012682187630
+--- !u!1001 &4311806136040052140
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1269,67 +1192,112 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3078971838589949029, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+    - target: {fileID: 1293854993406622380, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      propertyPath: m_Name
+      value: "Sala_Chav\xEDn"
       objectReference: {fileID: 0}
-    - target: {fileID: 3136148438680104199, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5765407864484101685, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+    - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7103684782448690281, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7269039383977223219, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
-      propertyPath: m_Name
-      value: "Sala_Chav\xEDn"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 006ceb793bbc3ca49bea88bb6792a005, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+--- !u!1001 &7781689244588326542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4242903006218765472, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_Name
+      value: Sala_Inca
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049783639198455095, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1339,7 +1307,7 @@ SceneRoots:
   - {fileID: 2127778918}
   - {fileID: 250023278}
   - {fileID: 1872474593}
-  - {fileID: 1331039012682187630}
-  - {fileID: 481050005}
-  - {fileID: 1729052063}
+  - {fileID: 4311806136040052140}
+  - {fileID: 7781689244588326542}
   - {fileID: 1216320385}
+  - {fileID: 305545176}
