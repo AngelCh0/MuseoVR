@@ -37,7 +37,6 @@ Transform:
   - {fileID: 2125799351242751575}
   - {fileID: 2945380636091026178}
   - {fileID: 1662692565989037601}
-  - {fileID: 2243782644063234539}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &169623648205053868
@@ -2201,7 +2200,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 1333078964943011761}
+    m_TransformParent: {fileID: 1829204698446041811}
     m_Modifications:
     - target: {fileID: -8098169881513260187, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
       propertyPath: m_Name
@@ -2221,7 +2220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.015
+      value: -3.5149999
       objectReference: {fileID: 0}
     - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2229,7 +2228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.272
+      value: 5.2720013
       objectReference: {fileID: 0}
     - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2805,7 +2804,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 5547196091291535068, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 5980728855109494348, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2243782644063234539}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
 --- !u!4 &1829204698446041811 stripped

@@ -6,7 +6,6 @@ public class PiezaPanelUI : MonoBehaviour
     public GameObject seccionEleccion;
     public GameObject seccionTexto;
     public GameObject seccionAudio;
-
     void Start()
     {
         if (panelRaiz != null) panelRaiz.SetActive(false);
@@ -34,7 +33,7 @@ public class PiezaPanelUI : MonoBehaviour
     public void MostrarTexto()
     {
         if (seccionEleccion != null) seccionEleccion.SetActive(false);
-        if (seccionTexto != null) seccionTexto.SetActive(true); // ¡Ahora sí se va a activar!
+        if (seccionTexto != null) seccionTexto.SetActive(true); 
         if (seccionAudio != null) seccionAudio.SetActive(false);
     }
 
