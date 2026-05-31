@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &60843505 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7013726811887816400, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+  m_PrefabInstance: {fileID: 4311806136040052140}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &103798515 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1748222016861356527, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
@@ -306,9 +311,21 @@ PrefabInstance:
         carga simb\xF3lica: mensajera del mundo de los muertos, guardiana nocturna
         y figura recurrente en su iconograf\xEDa ritual."
       objectReference: {fileID: 0}
+    - target: {fileID: 3147210715482115162, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3147210715482115162, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.42
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7115035088353682740, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2945380636091026178, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 499215637}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
 --- !u!1 &410087039
@@ -465,6 +482,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9f365cf844c03449bc8973eead2c3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &499215637 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+  m_PrefabInstance: {fileID: 1537503850}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -514,6 +536,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &843096901 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2945380636091026178, guid: 645bb82912ea243e0b90861ff29419ba, type: 3}
+  m_PrefabInstance: {fileID: 305545176}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1216320382
 GameObject:
   m_ObjectHideFlags: 0
@@ -646,6 +673,200 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 5, y: 5, z: 5}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &1537503850
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 843096901}
+    m_Modifications:
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2883616975954433978, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_Name
+      value: MarcoPuerta (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3013890434375674102, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_text
+      value: Sala Cultura Inca
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089062943169977487, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_text
+      value: Sala Cultura Paracas y Moche
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+--- !u!1 &1545640324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1545640326}
+  - component: {fileID: 1545640325}
+  m_Layer: 0
+  m_Name: MusicaAmbiente
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1545640325
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545640324}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 53855d2227acb3141a232a12f2feffbb, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.2
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1545640326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545640324}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.95, y: 2.78203, z: 29.86016}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1597002302 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5739245880472075158, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
@@ -1065,6 +1286,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b94c4c83dec6a94fbaebf543478259e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &1838673422 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+  m_PrefabInstance: {fileID: 1904284337}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1872474593
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1138,6 +1364,71 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58d0a4ac86f2348deb02f3880c71378e, type: 3}
+--- !u!1001 &1904284337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 60843505}
+    m_Modifications:
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905220173955524680, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2883616975954433978, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_Name
+      value: MarcoPuerta
+      objectReference: {fileID: 0}
+    - target: {fileID: 3013890434375674102, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_text
+      value: Sala Cultura Paracas y Moche
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089062943169977487, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
+      propertyPath: m_text
+      value: "Sala Cultura Chav\xEDn y Nazca"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a9e24a5b4e96d2746b71cb3161b2737a, type: 3}
 --- !u!1 &2127778916
 GameObject:
   m_ObjectHideFlags: 0
@@ -1196,6 +1487,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Sala_Chav\xEDn"
       objectReference: {fileID: 0}
+    - target: {fileID: 6856569106795965402, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6856569106795965402, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6856569106795965402, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      propertyPath: m_Size.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6856569106795965402, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7449766695119254307, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1237,8 +1544,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3100857821499171046, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 7013726811887816400, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1838673422}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 822a681692ea04145b7cedb9cec89dfc, type: 3}
 --- !u!1001 &7781689244588326542
@@ -1249,6 +1560,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 253398186134681489, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_UseGravity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 253398186134681489, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_Constraints
+      value: 126
+      objectReference: {fileID: 0}
+    - target: {fileID: 253398186134681489, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4242903006218765472, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
       propertyPath: m_Name
       value: Sala_Inca
@@ -1293,7 +1616,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 253398186134681489, guid: 227788ffb7809d54cb617f5b1c38dacc, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1311,3 +1635,4 @@ SceneRoots:
   - {fileID: 7781689244588326542}
   - {fileID: 1216320385}
   - {fileID: 305545176}
+  - {fileID: 1545640326}

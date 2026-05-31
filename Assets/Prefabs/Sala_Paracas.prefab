@@ -37,6 +37,7 @@ Transform:
   - {fileID: 2125799351242751575}
   - {fileID: 2945380636091026178}
   - {fileID: 1662692565989037601}
+  - {fileID: 2243782644063234539}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &169623648205053868
@@ -1577,6 +1578,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 7a498b6047b5a4ea780d4d555f22fad8, type: 3}
   m_PrefabInstance: {fileID: 91964544074822938}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &414675716025025652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6565372011569773418}
+    m_Modifications:
+    - target: {fileID: -8098169881513260187, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_Name
+      value: paracas2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.395
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.527
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.25062668
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.20978926
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.80008644
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5030272
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -114.482
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -332.713
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 191.632
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+--- !u!4 &3033718033858399846 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3447742079981357586, guid: ff238b0934abc214abda03e1ab2d21f1, type: 3}
+  m_PrefabInstance: {fileID: 414675716025025652}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &712468397678566694
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1642,6 +1717,15 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_text
+      value: "Botella Escult\xF3rica \u2014 Felino M\xEDtico\nCultura Paracas \xB7
+        800 a.C.\u2013200 d.C.\nVasija zoomorfa que representa un felino en postura
+        de descanso, cubierto de iconograf\xEDa geom\xE9trica pol\xEDcroma en rojo,
+        negro y verde. El felino era una deidad central en el mundo andino, s\xEDmbolo
+        de poder, guerra y el mundo sobrenatural. El asa estribo en el lomo mantiene
+        su funci\xF3n de contenedor ritual."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_fontStyle
       value: 0
       objectReference: {fileID: 0}
@@ -1672,6 +1756,15 @@ PrefabInstance:
     - target: {fileID: 2482479922900742379, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2669704214623446867, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: descripcion
+      value: "Botella Escult\xF3rica \u2014 Felino M\xEDtico\nCultura Paracas \xB7
+        800 a.C.\u2013200 d.C.\nVasija zoomorfa que representa un felino en postura
+        de descanso, cubierto de iconograf\xEDa geom\xE9trica pol\xEDcroma en rojo,
+        negro y verde. El felino era una deidad central en el mundo andino, s\xEDmbolo
+        de poder, guerra y el mundo sobrenatural. El asa estribo en el lomo mantiene
+        su funci\xF3n de contenedor ritual."
       objectReference: {fileID: 0}
     - target: {fileID: 2702716001009156057, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1709,6 +1802,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5108199375766805300, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 8355ef8980b7599448960e3469eb6af4, type: 3}
     - target: {fileID: 5547196091291535068, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
@@ -1850,8 +1947,8 @@ PrefabInstance:
     - {fileID: 5547196091291535068, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5980728855109494348, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
-      insertIndex: 1
-      addedObject: {fileID: 2180723733075333287}
+      insertIndex: -1
+      addedObject: {fileID: 3033718033858399846}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
 --- !u!4 &6565372011569773418 stripped
@@ -1884,6 +1981,16 @@ PrefabInstance:
       value: 0.0000023058055
       objectReference: {fileID: 0}
     - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_text
+      value: "Botella Escult\xF3rica \u2014 Ser M\xEDtico Acu\xE1tico\nCultura Paracas
+        \xB7 800 a.C.\u2013200 d.C.\nVasija que representa una criatura m\xEDtica
+        de cuerpo alargado con fauces abiertas, colmillos y ap\xE9ndices en forma
+        de aleta o cuerno. La decoraci\xF3n en negro, rojo y crema con l\xEDneas
+        de escritura visual Paracas cubre todo el cuerpo. Esta  combinaci\xF3n de
+        rasgos de tibur\xF3n, felino y ser sobrenatural, caracter\xEDstica del pante\xF3n
+        m\xEDtico de esta cultura."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_fontColor.b
       value: 0.1
       objectReference: {fileID: 0}
@@ -1907,10 +2014,23 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 17
       objectReference: {fileID: 0}
+    - target: {fileID: 2669704214623446867, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: descripcion
+      value: "Botella Escult\xF3rica\nCultura Paracas \xB7 800 a.C.\u2013200 d.C.\nVasija
+        que representa una criatura m\xEDtica de cuerpo alargado con fauces abiertas,
+        colmillos y ap\xE9ndices en forma de aleta o cuerno. La decoraci\xF3n en
+        negro, rojo y crema con l\xEDneas de escritura visual Paracas cubre todo
+        el cuerpo. Esta  combinaci\xF3n de rasgos de tibur\xF3n, felino y ser sobrenatural,
+        caracter\xEDstica del pante\xF3n m\xEDtico de esta cultura."
+      objectReference: {fileID: 0}
     - target: {fileID: 5001042639313998470, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_Name
       value: Pedestal (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5108199375766805300, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: a03d802a6cbb9834caa7f2b558203758, type: 3}
     - target: {fileID: 5679685611453333098, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0
@@ -1988,8 +2108,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5547196091291535068, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 5980728855109494348, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2014422736004260524}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
 --- !u!4 &5223520423262199429 stripped
@@ -2011,15 +2135,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 5559d2cff9d23454bb6d722c58759729, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.15
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 5559d2cff9d23454bb6d722c58759729, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.15
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 5559d2cff9d23454bb6d722c58759729, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.15
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 5559d2cff9d23454bb6d722c58759729, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2070,6 +2194,80 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 5559d2cff9d23454bb6d722c58759729, type: 3}
   m_PrefabInstance: {fileID: 2978002687571659989}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3529506312933598201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1333078964943011761}
+    m_Modifications:
+    - target: {fileID: -8098169881513260187, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_Name
+      value: paracas1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.481
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.07508757
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.008629384
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99710625
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.008162156
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.858
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -171.379
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.056
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+--- !u!4 &2243782644063234539 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3447742079981357586, guid: 097bf3b2ec4290a49b88b9eedb266a69, type: 3}
+  m_PrefabInstance: {fileID: 3529506312933598201}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3718684023528236426
 PrefabInstance:
@@ -2224,6 +2422,80 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 5980728855109494348, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
   m_PrefabInstance: {fileID: 3718684023528236426}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3759518231135889598
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5223520423262199429}
+    m_Modifications:
+    - target: {fileID: -8098169881513260187, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_Name
+      value: paracas3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.4552364
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5130423
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.486452
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.69168264
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.71525383
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.09388632
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.03424115
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -79.429
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -102.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 97.996
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+--- !u!4 &2014422736004260524 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3447742079981357586, guid: 7b6b7090504d36c41a26148722fa5fd5, type: 3}
+  m_PrefabInstance: {fileID: 3759518231135889598}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4013188575567246768
 PrefabInstance:
@@ -2380,80 +2652,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5980728855109494348, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
   m_PrefabInstance: {fileID: 4013188575567246768}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &5409398749124066571
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 6565372011569773418}
-    m_Modifications:
-    - target: {fileID: 4814140183114437194, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_Name
-      value: paracas
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.567
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.436
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 5.457
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 3150474306388093854, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
---- !u!4 &2180723733075333287 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6147826009795423660, guid: 41397aae863174d7195d1a814e51fa83, type: 3}
-  m_PrefabInstance: {fileID: 5409398749124066571}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5448637359901963423
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2479,6 +2677,15 @@ PrefabInstance:
       value: 0.0000023058055
       objectReference: {fileID: 0}
     - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_text
+      value: "Figura Antropomorfa \u2014 Ser Sobrenatural\nCultura Paracas \xB7 800
+        a.C.\u2013200 d.C.\nFigura cer\xE1mica b\xEDpeda con los brazos extendidos
+        y un elaborado tocado decorado con motivos oculares y escalonados. La pintura
+        pol\xEDcroma sobre engobe rojo representa atributos divinos: el ser de cuatro
+        ojos es una deidad recurrente en la iconograf\xEDa Paracas, asociada a la
+        fertilidad y el mundo de los ancestros."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2440918120509508857, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_fontColor.b
       value: 0.1
       objectReference: {fileID: 0}
@@ -2502,10 +2709,23 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 17
       objectReference: {fileID: 0}
+    - target: {fileID: 2669704214623446867, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: descripcion
+      value: "Figura Antropomorfa \u2014 Ser Sobrenatural\nCultura Paracas \xB7 800
+        a.C.\u2013200 d.C.\nFigura cer\xE1mica b\xEDpeda con los brazos extendidos
+        y un elaborado tocado decorado con motivos oculares y escalonados. La pintura
+        pol\xEDcroma sobre engobe rojo representa atributos divinos: el ser de cuatro
+        ojos es una deidad recurrente en la iconograf\xEDa Paracas, asociada a la
+        fertilidad y el mundo de los ancestros."
+      objectReference: {fileID: 0}
     - target: {fileID: 5001042639313998470, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_Name
       value: Pedestal (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5108199375766805300, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 2abf72b16136fd74bb92459cbe31b37e, type: 3}
     - target: {fileID: 5679685611453333098, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0
@@ -2583,7 +2803,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5547196091291535068, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64a946c1ec12f934bb8d6e5f3aabb1fb, type: 3}
